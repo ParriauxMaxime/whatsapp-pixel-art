@@ -1,0 +1,9 @@
+
+.CanvasRenderer {
+  display: flex;
+  flex-direction: column;
+}
+
+.CanvasRenderer > img {
+  display: none;
+}
